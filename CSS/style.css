@@ -319,4 +319,6 @@ button[type="submit"] {
 button[type="reset"] {
 	background-color: #999;
 }
-
+h1{
+    color:red;
+}

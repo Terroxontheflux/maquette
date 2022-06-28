@@ -21,7 +21,7 @@ body
     line-height: 2;
     margin: 0;
     color: #999;
-    background-image: url(img/fond.png);
+    background-image: url(../img/fond.png);
     display: block;
 }
 
@@ -153,7 +153,8 @@ section a {
 	padding: 10px 20px;
 }
 
-.cta, section a:hover {
+.cta, section a:hover 
+{
 	background: #f62459;
 	color: white;
 	border-radius: 5px;
